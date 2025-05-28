@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "GcFSSTdBr3lM2M+z4aXSgLxBclIgIPazc6OUFjW0ULE=",
+  "Source": "PedidoPackingAPI",
+  "BasePath": "_content/PedidoPackingAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}

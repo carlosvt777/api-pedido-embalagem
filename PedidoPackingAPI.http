@@ -1,0 +1,6 @@
+@PedidoPackingAPI_HostAddress = http://localhost:5074
+
+GET {{PedidoPackingAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

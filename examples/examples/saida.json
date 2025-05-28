@@ -1,0 +1,23 @@
+{
+  "pedidos": [
+    {
+      "caixas": [
+        {
+          "produtos": [
+            { "altura": 10, "largura": 20, "comprimento": 30 },
+            { "altura": 5, "largura": 15, "comprimento": 25 }
+          ]
+        }
+      ]
+    },
+    {
+      "caixas": [
+        {
+          "produtos": [
+            { "altura": 12, "largura": 10, "comprimento": 22 }
+          ]
+        }
+      ]
+    }
+  ]
+}
